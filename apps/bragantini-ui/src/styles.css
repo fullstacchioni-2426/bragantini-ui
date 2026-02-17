@@ -22,7 +22,8 @@ body {
 }
 
 code {
-    cursor: text;
+  color: #e0e1dd !important;
+  cursor: text;
 }
 
 /* Scrollbar styling */
